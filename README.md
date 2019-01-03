@@ -21,6 +21,6 @@ Scrape comments of all the languages
 
 <terminal>
 git clone https://github.com/tingchunchen/tripadvisor-sentiment-analysis.git
-  pip install selenium
-  cd tripadvisor-sentiment-analysis
-  python scrape.py
+pip install selenium
+cd tripadvisor-sentiment-analysis
+python scrape.py
