@@ -17,8 +17,8 @@ This project can help you scrape hotel information from Tripadvisor. I divide th
 2. Scrape comments of all the languages
 
 
-<terminal>
-git clone https://github.com/tingchunchen/tripadvisor-sentiment-analysis.git
-pip install selenium
-cd tripadvisor-sentiment-analysis
-python scrape.py
+# terminal
+1.git clone https://github.com/tingchunchen/tripadvisor-sentiment-analysis.git
+2.pip install selenium
+3.cd tripadvisor-sentiment-analysis
+4.python scrape.py
