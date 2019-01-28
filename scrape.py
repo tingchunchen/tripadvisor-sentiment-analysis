@@ -100,4 +100,4 @@ for hotel_url in zip(hotel_name, urls):
 
 df = pd.DataFrame({'hotels': hotels, 'names': names, 'titles': titles, 'star_ratting':star_ratting,
                    'location':location, 'date': date, 'comments': comments, 'replies': replies})
-df.to_csv('commentss.csv', index=False, encoding='big5')
+df.to_csv('commentss.csv', index=False, encoding='utf-8')
